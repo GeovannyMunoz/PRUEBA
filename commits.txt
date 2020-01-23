@@ -4,4 +4,9 @@ desde maquina
 
 desde la web
 
+<<<<<<< HEAD
 maquina2
+=======
+web 2
+
+>>>>>>> origin/master
